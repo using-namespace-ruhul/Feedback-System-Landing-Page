@@ -32,6 +32,12 @@ html {
     height: 0vh;
 }
 
+.animation-area-f {
+    width: 100%;
+    height: 20em;
+    position: absolute;
+}
+
 .box-area {
     position: absolute;
     top: 0;
